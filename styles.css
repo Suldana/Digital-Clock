@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@400;600;700&family=Fira+Sans:ital@1&family=Inter:wght@300&family=Kanit:wght@500&family=Lato:wght@300;400&family=Roboto+Slab&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(85, 85, 166);
+    font-family: 'Roboto Slab', serif;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 30px 40px;
+    display: flex;
+    font-weight: bolder;
+    font-size: x-large;
+    font-size: 4rem;
+    color: #fff;
+    flex-direction: column;
+}
